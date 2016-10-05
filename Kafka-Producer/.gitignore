@@ -1,0 +1,10 @@
+*~
+*.pyc
+*.log
+environments/*
+manifest/*
+*.swp
+dsns/*/migrations/*.py
+dsns/dsns/settings_local.py
+.ropeproject
+*/twistd.pid
